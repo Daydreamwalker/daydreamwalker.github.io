@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: pk2shiwo@163.com
 description: "May you find your worth in the dream world"
 keyword: "Story, Daydreamwalker"
-url: "http://pk2shiwo.github.io"          # your host, for absolute URL
+url: "http://daydreamwalker.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/daydreamwalker/daydreamwalker.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,9 +18,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # 你的个人头像 这里你可�
 
 # SNS settings   社交用户名
 RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
-github_username:    pk2shiwo
+# weibo_username:     daydreamwalker
+#zhihu_username:     daydreamwalker
+github_username:   daydreamwalker
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd     #简书地址
 #twitter_username:   qiubaiying   
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: pk2shiwo.github.io    #仓库名称
-  owner: pk2shiwo    #github用户名
-  admin: pk2shiwo
+  repo: daydreamwalkero.github.io    #仓库名称
+  owner: daydreamwalker   #github用户名
+  admin: daydreamwalker
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -78,7 +78,7 @@ ba_track_id:
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto             # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "暂无",
+        title: "daydreamwalker",
         href: ""
     },{
         title: "暂无",
